@@ -1,7 +1,7 @@
 ### IntelliJ IDEA ###
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+!src/src/py/main/**/out/
+!src/src/py/test/**/out/
 
 ### Eclipse ###
 .apt_generated
@@ -12,8 +12,8 @@ out/
 .springBeans
 .sts4-cache
 bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
+!src/src/py/main/**/bin/
+!src/src/py/test/**/bin/
 
 ### NetBeans ###
 /nbproject/private/
@@ -35,7 +35,8 @@ bin/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
